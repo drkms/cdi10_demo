@@ -2,6 +2,12 @@
 ... ici j ajoute un truc
 un autre code
 
+function(){
+	echo "Super";
+}
+
+// Un hotfix a ete rajouté a notre projet .. pour l instant il est dans la branche main, mais pas dans ma branche "nouvelle_branche"
 
 # Ajout d'une ligne pour embeter Patrick
 
+encore une petite ligne
