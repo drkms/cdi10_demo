@@ -2,6 +2,10 @@
 ... ici j ajoute un truc
 un autre code
 
+function(){
+	echo "Super";
+}
+
 
 # Ajout d'une ligne pour embeter Patrick
 
